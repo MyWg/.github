@@ -6,4 +6,8 @@ Welcome to the MyWG github guide, this is the location to find out, work on and 
 
 
 ## Start of something...
-Following Page shows the [Development Guide](./contribution.md)
+Please go to the relevent guide: 
+- [Contribution Guide](./contribution.md)
+- [React](https://reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [Ruby on Rails](https://rubyonrails.org/)
