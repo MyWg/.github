@@ -5,7 +5,7 @@ Welcome to the Lofft github guide, this is the location to find out, work on and
 - Lofft Mobile Application (React Native - iOS / Android)
 
 
-## Start of something...
+## Guides and Processes
 Please go to the relevent guide: 
 - [Contribution Guide](./contribution.md)
 - [Working Style and Practices](https://github.com/LofftApp/lofft-web-client/wiki/MyWG-Working-styles) | [Notion](https://www.notion.so/my-wg/Working-styles-and-practices-b80dbe3527664e79b8561ebf6a8d73d0)
