@@ -9,9 +9,9 @@ Welcome to the Lofft github guide, this is the location to find out, work on and
 Please go to the relevent guide: 
 - [Contribution Guide](./contribution.md)
 - **Development Guides**
-  - [Working Style and Practices](https://github.com/LofftApp/lofft-web-client/wiki/MyWG-Working-styles)
-  - [Development Cycle](https://github.com/LofftApp/lofft-web-client/wiki/Development-Cycle)
-  - [Issue Cylce](https://github.com/LofftApp/lofft-web-client/wiki/Issue-Cycle)
+  - [Working Style and Practices](https://github.com/LofftApp/.github/wiki/MyWG-Working-styles)
+  - [Development Cycle](https://github.com/LofftApp/.github/wiki/Development-Cycle)
+  - [Issue Cylce](https://github.com/LofftApp/.github/wiki/Issue-Cycle)
 - **Language Guides**
   - [React](https://reactjs.org/)
   - [React Native](https://reactnative.dev/)
