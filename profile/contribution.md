@@ -1,2 +1,2 @@
 ## Contributions
-This file highlights the development journey, PR process and merging.
+Please refer to the [Issue Cycle]() and the [Development Cycle](). 
