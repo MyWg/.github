@@ -1,4 +1,4 @@
-## Hi, welcome to Lofft 👋
+## Hi, Welcome to Lofft 👋
 Welcome to the Lofft github guide, this is the location to find out, work on and develop the Lofft platforms. We are currently working on the primary mobile MVP. This is being supported by Firebase for the backend component and authentication of the app. 
 
 - Lofft Front End (ReactJS)
