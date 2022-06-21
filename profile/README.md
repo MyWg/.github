@@ -1,7 +1,8 @@
 ## Hi, welcome to Lofft 👋
-Welcome to the Lofft github guide, this is the location to find out, work on and develop the Lofft platforms. We are currently working on two MVP platforms through three Git Repos. 
+Welcome to the Lofft github guide, this is the location to find out, work on and develop the Lofft platforms. We are currently working on the primary mobile MVP. This is being supported by Firebase for the backend component and authentication of the app. 
+
 - Lofft Front End (ReactJS)
-- Lofft Back End (Ruby on Rails)
+- Lofft Back End (Ruby on Rails) (Paused)
 - Lofft Mobile Application (React Native - iOS / Android)
 
 
