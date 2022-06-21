@@ -8,7 +8,7 @@ Welcome to the Lofft github guide, this is the location to find out, work on and
 
 ## Guides and Processes
 Please go to the relevent guide: 
-- [Contribution Guide](./contribution.md)
+- [Contribution Guide](https://github.com/LofftApp/.github/blob/main/profile/contribution.md)
 - **Development Guides**
   - [Working Style and Practices](https://github.com/LofftApp/.github/wiki/Lofft-Working-styles)
   - [Development Cycle](https://github.com/LofftApp/.github/wiki/Development-Cycle)
