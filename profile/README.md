@@ -3,6 +3,7 @@ Welcome to the Lofft github guide, this is the location to find out, work on and
 
 - Lofft Front End (ReactJS)
 - Lofft Mobile Application (React Native - iOS / Android)
+- Back End (Ruby On Rails)
 
 
 ## Guides and Processes
