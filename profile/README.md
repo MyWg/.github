@@ -21,6 +21,7 @@ Welcome to the Lofft github guide, use this page to find out all the information
 Please go to the relevent guide: 
 - [Contribution Guide](https://github.com/LofftApp/.github/blob/main/profile/contribution.md)
 - **Development Guides**
+  - [Initial Setup](https://github.com/LofftApp/.github/wiki/Initial-Setup) 
   - [Working Style and Practices](https://github.com/LofftApp/.github/wiki/Lofft-Working-styles)
   - [Development Cycle](https://github.com/LofftApp/.github/wiki/Development-Cycle)
   - [Issue Cylce](https://github.com/LofftApp/.github/wiki/Issue-Cycle)
